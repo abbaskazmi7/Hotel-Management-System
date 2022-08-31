@@ -1,0 +1,15 @@
+Important file
+MAil:royalsheikhupura@gmail.com
+Password:admin@12345
+
+For bookings
+API key:
+97109209956-5m2ti7g1u7j3cf57f3orfjrd86gplfae.apps.googleusercontent.com
+Secreat key:
+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
+
+For History
+API key:
+Secreat key:
+97109209956-j1i0q8113n8sgj1s3no6c2oivkr33km5.apps.googleusercontent.com
+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
